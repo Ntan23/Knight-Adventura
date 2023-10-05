@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Loading
+  - Img
+  - AudioManager
+  - LevelButton
+  - LevelSelectionManager
+  - PickUp
+  - Examine
+  - Key
+  - Enemy
+  - Fireball
+  - Object
+  - Door
+  - EnemyFireball
+  - Checkpoint
+  - MovingPlatform
+  - FallBoundaries
+  - Traps
+  - GrabNDrop
+  - Wall
+  - SpawnTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Item
+  - Player
+  - Enemy
+  - Collision
+  - Traps
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2798531269
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 2674082701
+    locked: 0

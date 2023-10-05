@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Knight Adventura Wipe
+  m_Controller: {fileID: 9100000, guid: 19dce0a1a0c99084a804b4df14995a76, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 580b5a3562f128d49bce68438f9525f6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f832453fb1f18e94a93b36e6bbb7c6fa, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a70fabde1f705354c85b5e2fb5f76ea3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 352e463f75229b542bee12b67e6bf5d8, type: 2}
